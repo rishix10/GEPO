@@ -61,6 +61,15 @@ GEPO is designed to streamline and empower the management of global partnerships
    - Access the app via `http://localhost/GEPO`.
 
 ---
+## 🤝 Collaborators
+
+Thanks to these awesome contributors:
+
+- [@A1053Bb](https://github.com/A1053Bb) (maintainer)
+- [@namrata-singh-student](https://github.com/namrata-singh-student)
+- [@Randheer-07](https://github.com/Randheer-07)
+
+---
 
 ## 🤝 Contributing
 
