@@ -1,5 +1,5 @@
 # 🌐 Global Engagement & Partnerships Office (GEPO) Website
-
+# JIS Group
 Welcome to the official repository for the **Global Engagement & Partnerships Office (GEPO)** Website!  
 GEPO is designed to streamline and empower the management of global partnerships, programs, and events for organizations and universities, offering a robust admin portal and an engaging user experience.
 
